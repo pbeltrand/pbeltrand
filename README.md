@@ -3,7 +3,7 @@
 # Sobre Paul Beltrand
 
 ### Profesión
-Ingeniero Civil en Computación e Informática, con cerca de 18 años de experiencia en el desarrollo de software y más de 10 años de docencia en Inacap Antofagasta.
+Ingeniero Civil en Computación e Informática, con cerca de 20 años de experiencia en el desarrollo de software y más de 15 años de docencia en Inacap Antofagasta.
 
 ### Pasiones
 Fanático de la tecnología, desarrollador por excelencia, gamer de la vieja escuela, docente de corazón, esposo y padre.
