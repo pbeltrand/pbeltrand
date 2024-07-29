@@ -1,4 +1,18 @@
-## Hi there 👋
+**## Hi there 👋**
+
+# Sobre Paul Beltrand
+
+### Profesión
+Ingeniero Civil en Computación e Informática, con cerca de 18 años de experiencia en el desarrollo de software y más de 10 años de docencia en Inacap Antofagasta.
+
+### Pasiones
+Fanático de la tecnología, desarrollador por excelencia, gamer de la vieja escuela, docente de corazón, esposo y padre.
+
+### Actualidad
+En la actualidad, el poder mezclar la docencia con el desarrollo de software nos obliga a actualizar nuestros conocimientos día a día. Con el inminente paso de las tecnologías a la nube, se abre otro mundo para explorar, junto a un gran abanico de posibilidades para aplicar a los nuevos proyectos y desafíos.
+
+
+
 
 <!--
 **pbeltrand/pbeltrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
